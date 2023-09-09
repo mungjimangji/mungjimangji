@@ -2,7 +2,7 @@
 - 👻 Hello, I'm Min Ji
 - 🤓 I’m currently studying web programming
 - 👶 I started programming in December 2022
-- 👩‍🎓 I studied the web programming as a KDT Full Stack Python course at the multi-campus
+- 👩‍🎓 I studied the web programming as a KDT Full-Stack Python course at the multicampus
 ## 🔨 Technology Stacks
 
 ### Frontend
