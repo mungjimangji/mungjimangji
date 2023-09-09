@@ -21,6 +21,7 @@
 <span><img src="https://img.shields.io/badge/GitHub-1b242b?style=flat&logo=github&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"></span>
 <span><img src="https://img.shields.io/badge/JIRA-2583fe?style=flat&logo=JIRA&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white"/></span>
 
 
 <hr>
